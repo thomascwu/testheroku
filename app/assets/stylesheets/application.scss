@@ -4,8 +4,6 @@
 @import 'screen/screen';
 
 @media screen and (min-width:1000px){
-   
-
 
 ul {
   position: absolute;
@@ -68,7 +66,7 @@ ul {
     }
   }
 }
-}
+
 
 
 .grid {
@@ -511,7 +509,7 @@ figure.effect-layla {
 }
 
 figure.effect-layla img {
-    height: 600px;
+    height: 470px;
 }
 
 figure.effect-layla figcaption {
@@ -1414,3 +1412,5 @@ body #cda-remove {
         display: none;
     }
 }
+
+} /* End of media query */
